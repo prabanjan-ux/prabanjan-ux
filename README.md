@@ -12,7 +12,7 @@ I am an enthusiastic developer with a focus on environmental education, data ana
 
 ## Contribution Snake
 
-![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/prabanjan-ux/prabanjan-ux/output/dist/github-snake-dark.svg)
 
 
 ## Top Projects
