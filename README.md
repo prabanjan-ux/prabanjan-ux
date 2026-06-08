@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1a4e,100:0d0d2b&height=210&section=header&text=Prabanjan%20R&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Data%20Engineering%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=prabanjan-ux&style=for-the-badge)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products+and+Developer+Tools;RAG+%7C+Agentic+AI+%7C+LLM+Engineering;React+%7C+Flask+%7C+Python+%7C+PySpark;Hackathon+Winner+%7C+Published+Author+%7C+PyPI+Publisher)](https://git.io/typing-svg)
 
@@ -100,18 +99,6 @@ I build AI-powered applications, retrieval systems, developer tools, and scalabl
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prabanjan-ux&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabanjan-ux&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
